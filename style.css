@@ -18,3 +18,7 @@ body {
   width: 150px;
   border-radius: 50%; /* trik untuk membuat gamabar persegi menjadi lingkaran sempurna */
 }
+.kartu-profil {
+  /* ... (kode dari slide sebelumnya) ... */
+  text-align: center; /* menengahkan semua teks di dalam kartu */
+}
